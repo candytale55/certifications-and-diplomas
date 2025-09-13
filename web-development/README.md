@@ -8,6 +8,13 @@
 | Creación, Programación y Diseño de Webs con HTML5 y CSS3 _Web Creation, Programming, and Design with HTML5 and CSS3_| F220413AA-15/483 | ESI Escuela Superior de Diseño, SL | Jul-2024|
 | Responsive Web Design<br>_Diseño Web Adaptativo_             |   [Link / Enlace](https://www.freecodecamp.org/certification/candytale55/responsive-web-design)  | freeCodeCamp |  Nov-2019   |
 
+### Specific Topics
+
+| Course <br> Curso  | Certificate <br> Certificate  | Issuer <br> Emisor | Date <br> Fecha |
+|-|-|-|-|
+|Learn Flexbox <br> _Aprenda Flexbox_ | [Link / Enlace](https://scrimba.com/certificate-cert24zAwPPowRKVbdDvwH5r6bF3JEGM5VcvecaAa)|Scrimba|Sep-2025|
+| Prompt Engineering for Web Developers <br> _Prompt Engineering para desarrolladores web_ | [Link / Enlace](https://scrimba.com/certificate-cert2JbLs3qgBCLdDpt54a21pHajtvESEDpGoQUno7) | Scrimba | Jul-2025 |
+
 ## Specialized Skills 
 
 | Course <br> Curso  | Certificate <br> Certificate  | Issuer <br> Emisor | Date <br> Fecha |

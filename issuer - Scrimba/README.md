@@ -16,7 +16,7 @@
 | Course <br> Curso  | Certificate <br> Certificate  | Issuer <br> Emisor | Date <br> Fecha |
 |-|-|-|-|
 | Learn HTML and CSS <br> _Aprende HTML y CSS_ | [Link / Enlace](https://scrimba.com/certificate-cert24zAwPPowRKVbdDvwH5r6bGHDAfo3wb9zfrx8) | Scrimba | Sep-2025 |
-
+|Learn Flexbox <br> _Aprenda Flexbox_ | [Link / Enlace](https://scrimba.com/certificate-cert24zAwPPowRKVbdDvwH5r6bF3JEGM5VcvecaAa)|Scrimba|Sep-2025|
 
 ## Specialized Skills 
 
