@@ -1,6 +1,6 @@
 # Scrimba 
 
- [Profile](#) / Perfil en [???]
+ [Profile / Perfil](https://scrimba.com/@candytale55:certs) in Scrimba.
 
 
 ## JavaScript
