@@ -5,10 +5,11 @@
 
 | Course <br> Curso  | Certificate <br> Certificate  | Issuer <br> Emisor | Date <br> Fecha |
 |-|-|-|-|
-| 4x4 de ChatGPT & IA <br> _ChatGPT & AI 4x4_ | [Link / Enlace](https://certificate.growitschool.com/28966438852-773912446173?utm_campaign=143707347-Taller-ChatGPT-ed15-sep25&utm_medium=email&_hsenc=p2ANqtz-93-Jkgt53tdzrGOyz8GwW4hmmYz5RLupLWUpK_9QwvojnCOfi10J5SyUq2xLGf6b6mewdk1yLHcEXsXwng9wowStCTOw&_hsmi=117412047&utm_content=117412047&utm_source=hs_automation) <br> ID: 28966438852-773912446173 | Growit | Sep- 2025|
+| 4x4 de ChatGPT & IA <br> _ChatGPT & AI 4x4_ | [Link / Enlace](https://certificate.growitschool.com/28966438852-773912446173?utm_campaign=143707347-Taller-ChatGPT-ed15-sep25&utm_medium=email&_hsenc=p2ANqtz-93-Jkgt53tdzrGOyz8GwW4hmmYz5RLupLWUpK_9QwvojnCOfi10J5SyUq2xLGf6b6mewdk1yLHcEXsXwng9wowStCTOw&_hsmi=117412047&utm_content=117412047&utm_source=hs_automation) <br> ID: 28966438852-773912446173 | Growit | Sep- 2025| 8hr
 | Deploy AI apps with Cloudflare <br> _Implementación de aplicaciones de IA con Cloudflare_ | [Link / Enlace](https://scrimba.com/certificate-cert24zAwPPowRKVbdDvwH5r6b1AJuycZzjdfnRrE) | Scrimba | Sep-2025 |
 | Intro to Mistral AI <br> _Introducción a Mistral IA_ | [Link / Enlace](https://scrimba.com/certificate-cert2JbLs3qgBCLdDpt54a21pHbazfNqxm9Tuu3gFv) | Scrimba | Aug-2025 |
 | Intro to Claude AI <br> _Introducción a Claude IA_ | [Link / Enlace](https://scrimba.com/certificate-cert2ffentAFN4a2TTipuPiLbBsUUCqw3mEQ9tSMeMjJP7cZJ5) | Scrimba | Aug-2025 |
 | Learn OpenAI's Assistants API <br> _Conocimiento de la API de asistentes de OpenAI_ | [Link / Enlace](https://scrimba.com/certificate-cert2JbLs3qgBCLdDpt54a21pHbZkkSSWnhVgZ15R2) | Scrimba | Jul-2025 |
 | Intro to AI Engineering <br> _Introducción a la ingeniería de IA_ | [Link / Enlace](https://scrimba.com/certificate-cert2JbLs3qgBCLdDpt54a21pHbaFWpChBH5mtE6EQ) | Scrimba | Jul-2025 |
 | Prompt Engineering for Web Developers <br> _Prompt Engineering para desarrolladores web_ | [Link / Enlace](https://scrimba.com/certificate-cert2JbLs3qgBCLdDpt54a21pHajtvESEDpGoQUno7) | Scrimba | Jul-2025 |
+
