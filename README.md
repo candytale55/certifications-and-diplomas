@@ -4,6 +4,7 @@
 
 | Course <br> Curso  | Certificate <br> Certificado  | Issuer <br> Emisor | Date <br> Fecha | Hours <br> Horas |
 |-|-|-|-|-|
+| Learn UI Design <br> *Aprenda diseño de interfaz de usuario*             |   [Link / Enlace](https://scrimba.com/learn-ui-design-c024;cert24zAwPPowRKVbdDvwH5r6azukx7HVbdNjZvn5)  | Scrimba |  Oct-2025   | 8.6 |
 | Responsive Web Design<br>_Diseño Web Adaptativo_             |   [Link / Enlace](https://scrimba.com/learn-responsive-web-design-c029;cert24zAwPPowRKVbdDvwH5r6azv3F61xn9jBFM18)  | Scrimba |  Oct-2025   | 15.1 |
 | Creación, Programación y Diseño de Webs con HTML5 y CSS3 _Web Creation, Programming, and Design with HTML5 and CSS3_| F220413AA-15/483 | ESI Escuela Superior de Diseño, SL | Jul-2024| 210 |
 | Responsive Web Design<br> _Diseño Web Adaptativo_ | [Link / Enlace](https://www.freecodecamp.org/certification/candytale55/responsive-web-design)  | freeCodeCamp |  Nov-2019   | 300 |
