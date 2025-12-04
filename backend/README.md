@@ -67,9 +67,9 @@
 
 ### Older Certifications
 
-| **Course** | **Certificate** |**Issuer** | **Hours** | **Status** |
+| **Course** | **Certificate** |**Issuer / Program** | **Length (hrs)** | **Status** |
 |-|-|-|-|-|
-| **JavaScript Algorithms & Data Structures** <br>*Algoritmos y Estructuras (JS)* | [Certificate](https://www.freecodecamp.org/certification/candytale55/javascript-algorithms-and-data-structures) (2020) | freeCodeCamp | ~300 | ✅ Completed |
+| **JavaScript Algorithms & Data Structures** <br>*Algoritmos y Estructuras (JS)* | [Certificate](https://www.freecodecamp.org/certification/candytale55/javascript-algorithms-and-data-structures) (2020) | [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) | ~300 | ✅ Completed |
 
 ---
 
@@ -78,7 +78,7 @@
 
 | **Course** | **Certificate** | **Issuer** | **Hours** | **Year** | **Status** |
 |-|-|-|-|-|-|
-| **Business Intelligence (ADGG102PO)** <br>*Inteligencia de Negocio (BI)* | F220739AA | Femxa Formación | 30 | 2023 | ✅ Completed |
+| **Business Intelligence (ADGG102PO)** <br>*Inteligencia de Negocio (BI)* | [F220739AA](https://github.com/candytale55/certifications-and-diplomas/blob/main/backend/backend-certificates/2023.03%20-%20Business%20Intelligence%20(ADGG102PO).pdf) | Femxa Formación | 30 | 2023 | ✅ Completed |
 
 ---
 
@@ -103,4 +103,3 @@
 | **Learn AI Agents** <br> *Agentes de IA* | [Certificate](https://scrimba.com/learn-ai-agents-c034;cert2JbLs3qgBCLdDpt54a21pHbakHBxsZrfsDqGSa) (2025) | [Scrimba](https://scrimba.com/learn-ai-agents-c034) | 2.0 | 🔄 Ongoing |
 
 ---
-
