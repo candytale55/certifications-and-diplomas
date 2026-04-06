@@ -40,7 +40,7 @@
 
 | **Course** | **Certificate** | **Issuer / Program** | **Length (hrs)** | **Status** |
 |-|-|-|-|-|
-| **The Frontend Developer Career Path** <br>*Ruta de Carrera de Desarrollador Frontend* | In Progress (2025) |  [Scrimba](https://scrimba.com/the-frontend-developer-career-path-c0j) | 81.6 | 🔄 Ongoing |
+| **The Frontend Developer Career Path** <br>*Hoja de Ruta del Desarrollador Frontend* | [Certificate](https://scrimba.com/the-frontend-developer-career-path-c0j;cert24zAwPPowRKVbdDvwH5r6bEnv3PFtCpsypFvg) (2025) |  [Scrimba](https://scrimba.com/the-frontend-developer-career-path-c0j) | 81.6 | ✅ Completed |
 | **Creation, Programming & Design of Websites with HTML5 & CSS3 (IFCT031PO)** <br>*Creación, Programación y Diseño de Webs con HTML5 y CSS3* | [3234638](https://github.com/candytale55/certifications-and-diplomas/blob/main/web-development/certificates/html-css/2024.07%20-%20Creaci%C3%B3n%2C%20Programaci%C3%B3n%20y%20Dise%C3%B1o%20de%20Webs%20con%20HTML%20y%20CSS%20%20(IFCT031PO)%20-%20ESI.pdf) (2024) | ESI Escuela Superior de Diseño (Spain) |  210 | ✅ Completed |
 
 
@@ -90,7 +90,7 @@
 |-|-|-|-|-|
 | **Front End Development Libraries Certification** <br>*Certificación Librerías de Frontend* | In Progress | [freeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/)|    | 🔄 Ongoing|
 | **Learn React** <br>*React (Basico)* | [Certificate](https://scrimba.com/learn-react-c0e;cert24zAwPPowRKVbdDvwH5r6bDZ16youkredkMuA) (2025) | [Scrimba](https://scrimba.com/learn-react-c0e) | 15.1 | ✅ Completed |
-| **Advanced React** <br> *React Avanzado* | In Progress | [Scrimba](https://scrimba.com/advanced-react-c02h) | 13.2 |  🔄 Ongoing |
+| **Advanced React** <br> *React Avanzado* | [Certificado](https://scrimba.com/advanced-react-c02h;cert2JbLs3qgBCLdDpt54a21pHaiAEvGbrniUjC5Df) (2026) | [Scrimba](https://scrimba.com/advanced-react-c02h) | 13.2 |   ✅ Completed |
 | **Learn TypeScript** <br> *TypeScript* | In Progress | [Scrimba](https://scrimba.com/learn-typescript-c03c) | 4.2 |  🔄 Ongoing |
 
 ---
@@ -104,10 +104,14 @@
 | **Learn Flexbox** <br> *Flexbox* | [Certificate](https://scrimba.com/certificate-cert24zAwPPowRKVbdDvwH5r6bF3JEGM5VcvecaAa) (2025) | [Scrimba](https://scrimba.com/learn-flexbox-c0k) | 0.9 | ✅ Completed |
 | **Learn CSS Grid** <br> *CSS Grid*  |[Certiticate](https://scrimba.com/certificate-cert2JbLs3qgBCLdDpt54a21pHaiuPUusSf6cjDQem) (2025)| [Scrimba](https://scrimba.com/learn-css-grid-c02k) | 1.1 |  ✅ Completed |
 | **Learn CSS Variables** <br> *Variables CSS*  |[Certificate](https://scrimba.com/certificate-cert2JbLs3qgBCLdDpt54a21pHaVm7YE88K2BGMjTB) (2025)| [Scrimba](https://scrimba.com/learn-css-variables-c026) | .5 | ✅ Completed |
+
+### Libraries & Frameworks
+
+| **Course** | **Certificate** |**Issuer / Program** | **Length (hrs)** | **Status** |
+|-|-|-|-|-|
+|**Learn Tailwind CSS** <br>Tailwind CSS|[Certificado]() (2026)|[Scrimba](https://scrimba.com/learn-tailwind-css-c010)|2.2|🔄 Ongoing|
+|**Build a Product Card with Tailwind CSS** <br> Crear una tarjeta de producto con Tailwind CSS. |[Certificado](https://scrimba.com/build-a-product-card-with-tailwind-css-c07sjqf1ak;cert2ffentAFN4a2TTipuPiLbBnmw7KudS3BGWTuB5YugBZUzx) (2026)|[Scrimba](https://scrimba.com/build-a-product-card-with-tailwind-css-c07sjqf1ak)|1.3|✅ Completed|
 | **Learn Bootstrap**  <br> *Bootstrap*  |[Certificado](https://scrimba.com/certificate-cert24zAwPPowRKVbdDvwH5r6bG2pynhreo7LF7a4) (2025) | [Scrimba](https://scrimba.com/learn-bootstrap-c0o) | 1 | ✅ Completed |
-
-
-
 ---
 
 # G) WEB / MARKETING / SEO 
